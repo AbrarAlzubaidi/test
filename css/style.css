@@ -1,0 +1,60 @@
+body{
+    width: 100%;
+    /* background-color: black; */
+
+    
+}
+h1{
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+main{
+    width: 900px;
+    height: 900px;
+    margin: 40px auto;
+
+}
+main form{
+    margin:20px 25px;
+}
+main form label{
+    margin-right: 15px;
+    color: beige;
+}
+#name{
+   
+}
+#age{
+
+}
+main form button{
+    justify-content: space-between;
+    margin: 10px 30px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:  beige;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+fieldset{
+    border: 4px dotted beige;
+    background-color: rgba(0, 0, 0, 0.877);
+}
+legend{
+    color: beige;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    padding: 10px;
+    border-collapse: separate;
+    border-spacing: 50px 0;
+    column-span: 5cm;
+    border: 4px solid black;
+}
+#tableSection{
+    margin: 50px auto;
+}
